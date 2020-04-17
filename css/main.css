@@ -1,1 +1,9 @@
+html{
+  font: 100%/1.15 serif;
+}
 
+title{
+  font: Helvetica;
+  font-size: 4em;
+  font-weight: bold;
+}
