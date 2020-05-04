@@ -2,12 +2,77 @@ html{
   font: 100%/1.15 serif;
 }
 
-title{
-  font: Helvetica;
-  font-size: 4em;
-  font-weight: bold;
+body{
+  padding-top: 5em;
+  padding-bottom: 5em;
 }
 
 li{
   font-size: 75%;
+  color: rgb(234,226,206);
+}
+
+ul{
+  font-size: 1.35em;
+}
+
+/* #sections */
+
+#patrons{
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+#productions{
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+#morepatrons{
+  padding-bottom: 2em;
+}
+
+#author{
+  font-style: italic;
+}
+/* colors */
+
+h2{
+  font-family: 'Poiret One', cursive;
+  font-weight: lighter;
+  color: black;
+  font-size: 3em;
+
+}
+
+h1{
+  font-family: 'Poiret One', cursive;
+  font-weight: lighter;
+  font-size: 4em;
+  color: black;
+
+}
+
+figcaption{
+  font-style: italic;
+  color: black;
+  font-weight: lighter;
+}
+
+p{
+  color: rgb(234,226,206);
+}
+
+a {
+  color: rgb(234,226,206);
+}
+a:hover {
+  color: black;
+}
+
+a:focus {
+  color: black;
+}
+a:active {
+  color: white;
 }
