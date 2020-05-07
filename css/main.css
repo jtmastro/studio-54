@@ -3,6 +3,7 @@ html{
 }
 
 body{
+  background-image: url(file:///Users/jackmastrototaro/Desktop/Courses/Eigth%20Semester%20Courses/Interactive/studio-54/img/background.jpg); background-size:contain;);
   padding-top: 5em;
   padding-bottom: 5em;
 }
@@ -19,7 +20,6 @@ ul{
 nav{
   font-style: italic;
   font-weight: lighter;
-  color: black;
 }
 
 /* #sections */
