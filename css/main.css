@@ -16,6 +16,12 @@ ul{
   font-size: 1.35em;
 }
 
+nav{
+  font-style: italic;
+  font-weight: lighter;
+  color: black;
+}
+
 /* #sections */
 
 #patrons{
@@ -60,7 +66,8 @@ figcaption{
 }
 
 p{
-  color: rgb(234,226,206);
+  color: white;
+  font-weight: lighter;
 }
 
 a {
